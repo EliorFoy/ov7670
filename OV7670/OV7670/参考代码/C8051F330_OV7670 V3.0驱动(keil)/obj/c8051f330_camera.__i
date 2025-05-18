@@ -1,0 +1,1 @@
+"source\c8051f330_camera.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(.\inc) DEBUG OBJECTEXTEND PRINT(.\obj\c8051f330_camera.lst) OBJECT(.\obj\c8051f330_camera.obj)
